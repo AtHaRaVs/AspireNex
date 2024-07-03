@@ -1,5 +1,6 @@
 import React from "react";
 import { HeroContent } from "../sub/HeroContent";
+import Navbar from "./Navbar";
 
 export const Hero = () => {
   return (
@@ -13,6 +14,7 @@ export const Hero = () => {
         <source src="/blackhole.webm" type="video/webm" />
       </video>
       <HeroContent />
+      <Navbar />
     </div>
   );
 };
