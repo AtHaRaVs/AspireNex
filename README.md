@@ -1,3 +1,6 @@
+![image](https://github.com/AtHaRaVs/aspirenex/assets/99896281/17d2f789-5c9a-4099-a2e1-2a39dbec4c38)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
