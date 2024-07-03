@@ -37,8 +37,8 @@ const SkillText = () => {
         transition={{ delay: 0.5 }}
         className="cursive text-xl text-gray-200 mb-10 mt-2 text-center"
       >
-        "Code is like humor. When you have to explain it, it’s bad." – Cory
-        House
+        &quot;Code is like humor. When you have to explain it, it&apos;s
+        bad.&quot; by Cory House
       </motion.div>
     </div>
   );

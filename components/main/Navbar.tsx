@@ -42,7 +42,7 @@ const Navbar = () => {
 
         <div className="flex flex-row gap-5">
           {Socials.map((social) => (
-            <a href={social.link}>
+            <a href={social.link} key={social.name}>
               <Image
                 key={social.name} // Use social.name as the key
                 src={social.src} // Access src and name properties from Social

@@ -41,7 +41,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I' m a full stack software developer.
+          I&quot; m a full stack software developer.
           <span className="block mt-5">- Website Development</span>
           <span className="block">- C++ (DSA) </span>{" "}
           <span className="block">- Machine Learning</span>{" "}
