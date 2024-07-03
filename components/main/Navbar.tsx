@@ -15,6 +15,7 @@ const Navbar = () => {
         >
           <Image
             src="/logo.png" // Adjust path to your logo image
+            key={"logo"}
             alt="logo"
             width={70}
             height={70} // Corrected typo: 'hieght' to 'height'

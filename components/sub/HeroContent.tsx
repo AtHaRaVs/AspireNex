@@ -19,7 +19,9 @@ export const HeroContent = () => {
           className="Welcome-box py-[8px] px-[7px] opacity-[0.9]"
         >
           <SparklesIcon className="text-gray-400 mr-[10px] h-5 w-5" />
-          <h1 className="Welcome-text text-[13px] text-gray-400">Full Stack Developer</h1>
+          <h1 className="Welcome-text text-[13px] text-gray-400">
+            Full Stack Developer
+          </h1>
         </motion.div>
 
         <motion.div
@@ -40,13 +42,13 @@ export const HeroContent = () => {
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
           I' m a full stack software developer.
-          
-          <span className="block mt-5">-> Website Development</span>
-          <span className="block">-> C++ (DSA) </span>{" "}
-          <span className="block">-> Machine Learning</span>{" "}
-          <span className="block">-> Software Design </span>
-          <span className="block mb-5">->And a YouTuber helping 3rd Tier students with their journey</span>
-          
+          <span className="block mt-5">- Website Development</span>
+          <span className="block">- C++ (DSA) </span>{" "}
+          <span className="block">- Machine Learning</span>{" "}
+          <span className="block">- Software Design </span>
+          <span className="block mb-5">
+            - And a YouTuber helping 3rd Tier students with their journey
+          </span>
           Check out my projects and skills
         </motion.p>
 
